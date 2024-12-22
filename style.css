@@ -1,0 +1,21 @@
+
+body{
+    text-align: center;
+        }
+.head{
+    border-radius: 50%;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width:600px;
+    max-height: 700px;
+    margin: auto;
+    text-align: center;
+
+}
+.h1{
+    font-size: 36px;
+  font-weight: bold;
+  color: #007BFF;
+  text-transform: uppercase;
+}
